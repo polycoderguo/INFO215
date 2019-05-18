@@ -1,5 +1,5 @@
 # INFO215
-Course project. Summary of visualization codes
+Course project. Folder includes: Summary of visualization codes and Data Visualization Checklist (pdf file)
 Code includes:
 1. color selection
 2. setting figure size, subplot and axis
